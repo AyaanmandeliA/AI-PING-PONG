@@ -1,0 +1,36 @@
+.heading{
+    text-align: left;
+    width: 100%;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid black;
+}
+.loli{
+    width: 100%;
+
+}
+#pop , #status{
+    font-size: 22px;
+}
+h4{
+    margin: 0px;
+    width: 100%;
+    line-height: 2;
+    background-color: white;
+
+}
+.modal-dialog{
+    width: 90%;
+}
+.img{
+    width: 45%;
+    display: inline-block;
+}
+.modal-body{
+    text-align: left;
+    font-size: 20px;
+}
